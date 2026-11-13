@@ -11,7 +11,7 @@ This plugin bundles skills and agents written by other authors. Each part keeps 
 | claude-seo (Bhanu Namikaze, agricidaniel), via bartmagera/claude-skills | MIT, © 2026 Bhanu Namikaze, agricidaniel | code in `skills/full-site-audit` that comes from claude-seo | [licenses/claude-seo-agentic-seo.txt](licenses/claude-seo-agentic-seo.txt) |
 | [lyndonkl/claude](https://github.com/lyndonkl/claude) | Published here with the author's permission | `skills/research-claim-map` | — |
 
-Own work by Yuri: `skills/serp-gap-analysis`, `agents/serp-analyst.md`, and the plugin packaging (manifest, path rewrites to `${CLAUDE_PLUGIN_ROOT}`).
+Own work by Yuri, under the MIT license in [`LICENSE`](LICENSE): `skills/serp-gap-analysis`, `agents/serp-analyst.md`, and the plugin packaging (manifests, README, path rewrites to `${CLAUDE_PLUGIN_ROOT}`). That license does not cover the bundled third-party parts listed above.
 
 Changes made to bundled skills: hardcoded `~/.claude/skills` paths were rewritten to `${CLAUDE_PLUGIN_ROOT}/skills`.
 
