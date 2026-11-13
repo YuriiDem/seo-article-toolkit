@@ -1,0 +1,24 @@
+{
+  "name": "yuriidem",
+  "owner": {
+    "name": "Yuri"
+  },
+  "metadata": {
+    "description": "Yuri's Claude Code plugins for SEO and GEO content."
+  },
+  "plugins": [
+    {
+      "name": "seo-article-toolkit",
+      "source": "./",
+      "description": "SEO/GEO toolkit for writing high-quality articles: content briefs, semantic writing, claim mapping, verified citations, AI-citability and GEO audits.",
+      "version": "0.3.0",
+      "author": {
+        "name": "Yuri"
+      },
+      "homepage": "https://github.com/YuriiDem/seo-article-toolkit",
+      "repository": "https://github.com/YuriiDem/seo-article-toolkit",
+      "keywords": ["seo", "geo", "content-brief", "copywriting", "citations"],
+      "category": "productivity"
+    }
+  ]
+}

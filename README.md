@@ -2,6 +2,26 @@
 
 Bundle of community skills for producing high-quality SEO/GEO articles.
 
+## Install
+
+In Claude Code:
+
+```
+/plugin marketplace add YuriiDem/seo-article-toolkit
+/plugin install seo-article-toolkit@yuriidem
+```
+
+Or from a terminal:
+
+```bash
+claude plugin marketplace add YuriiDem/seo-article-toolkit
+claude plugin install seo-article-toolkit@yuriidem
+```
+
+Skills are then available as `seo-article-toolkit:<skill-name>`, for example `seo-article-toolkit:semantic-writer`.
+
+## What's inside
+
 | Source | Skills |
 |---|---|
 | rampstackco/claude-skills (MIT) | content-brief-authoring |
