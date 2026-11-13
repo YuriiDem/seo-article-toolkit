@@ -11,6 +11,8 @@ Bundle of community skills for producing high-quality SEO/GEO articles.
 | TheSmokeDev/geo-skills (MIT) | all 29 skills under skills/ + 5 agents |
 | Yuri (own) | serp-gap-analysis + serp-analyst agent |
 
+Licenses and credits for every bundled part are in [NOTICE.md](NOTICE.md); full license texts are in [`licenses/`](licenses/).
+
 Suggested article pipeline: topical-map → content-brief / content-brief-authoring → research-claim-map → semantic-writer → use-citations → geo-citability / geo-content → internal-linking.
 
 Notes: bartmagera's `agentic-seo` was skipped (duplicate of full-site-audit). Hardcoded `~/.claude/skills` paths were rewritten to `${CLAUDE_PLUGIN_ROOT}/skills`. token-max-factory needs an external CLI (Archon) that it asks to install via a shell script — review before running.
