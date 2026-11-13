@@ -1,0 +1,9 @@
+# Private brand skills stay local
+skills/*-editorial-standard/
+
+# OS / editor / Python junk
+.DS_Store
+Thumbs.db
+__pycache__/
+*.pyc
+.venv/

@@ -1,0 +1,7 @@
+{
+  "name": "seo-article-toolkit",
+  "version": "0.3.0",
+  "description": "SEO/GEO toolkit for writing high-quality articles: content briefs, semantic writing, claim mapping, verified citations, AI-citability and GEO audits.",
+  "author": { "name": "Yuri" },
+  "keywords": ["seo", "geo", "content-brief", "copywriting", "citations"]
+}
